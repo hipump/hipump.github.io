@@ -1,7 +1,7 @@
 baseURL: https://hipump.github.io
-
+theme: toha
 languageCode: en-us
-title: "John's Blog"
+title: "웹서비스QA 블로그"
 
 # Use Hugo modules to add theme
 module:
@@ -86,12 +86,12 @@ params:
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
-        email: true
+        facebook: false
+        twitter: false
+        linkedin: false
+        reddit: false
+        whatsapp: false
+        email: false
         # tumblr: true
         # pocket: true
         # diaspora: true
