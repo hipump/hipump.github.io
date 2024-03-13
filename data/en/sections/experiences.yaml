@@ -82,22 +82,22 @@ experiences:
     responsibilities:
     - 검색, 광고서비스 관련 개발 진행
 
-#- company:
-#    name: QA
-#    location: 웹서비스QA팀, QA팀
-#    logo: /images/sections/experiences/QA.png
-#    overview: 기획서를 바탕으로 TestCase 작성 및 기능 테스트 진행
-#  positions:
-#    - designation: 웹서비스QA팀
-#      responsibilities:
-#        - 서버, 프론트, 백엔드 등 모바일앱을 제외한 모든 영역에 대한 QA 진행 (PC, 모바일웹)
-#
-#    - designation: QA팀
-#      responsibilities:
-#        - 모바일앱 내 네이티브 영역에 대해서만 QA 진행
-#
-#- company:
-#    name: 서비스 배포
-#    location: 서비스개발실
-#    logo: /images/sections/experiences/Launch.png
-#    overview: QA 완료된 제품에 대한 서비스 배포 진행
+- company:
+    name: QA
+    location: 웹서비스QA팀, QA팀
+    logo: /images/sections/experiences/QA.png
+    overview: 기획서를 바탕으로 TestCase 작성 및 기능 테스트 진행
+  positions:
+  - designation: 웹서비스QA팀
+    responsibilities:
+    - 서버, 프론트, 백엔드 등 모바일앱을 제외한 모든 영역에 대한 QA 진행 (PC, 모바일웹)
+
+  - designation: QA팀
+    responsibilities:
+    - 모바일앱 내 네이티브 영역에 대해서만 QA 진행
+
+- company:
+    name: 서비스 배포
+    location: 서비스개발실
+    logo: /images/sections/experiences/Launch.png
+    overview: QA 완료된 제품에 대한 서비스 배포 진행
