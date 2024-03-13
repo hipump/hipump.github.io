@@ -18,17 +18,13 @@ experiences:
     overview: 각 부서 기획자가 서비스 업데이트 기획서 작성
   positions:
   - designation: 서비스부문
-#    start: Nov 2019
-#    # don't provide end date if you are currently working there. It will be replaced by "Present"
-#    # end: Dec 2020
-#    # give some points about what was your responsibilities at the company.
-    업무영역:
+    responsibilities:
     - 라이브서비스기획팀 - 아이템, 라이브 방송에 대한 전체 영역
     - 방송서비비스기획팀 - 프릭샷, 외부장치 등 방송 송출에 대한 전체 영역
     - 플랫폼UX기획팀 - 방송국, 검색, MY 등의 영역과 플랫폼 전체영역에 대한 UI/UX 영역
 
   - designation: 유관부서 (VOD사업본부 / TL부문)
-    업무영역:
+    responsibilities:
     - VOD사업팀 - VOD 플레이어 및 Catch, 다시보기 등 VOD 전체 영역
     - 플랫폼AD팀 - 광고 상품 관련 인벤토리 및 기획/설계
     - 미디어랩 - 코어, P2P, 백엔드 등 시청 및 품질에 관한 전체 영역
@@ -40,7 +36,7 @@ experiences:
     overview: 프로젝트 각 담당자들이 모여 제반사항, 리뷰 등 진행
   positions:
   - designation: 기획 리뷰
-    진행업무:
+    responsibilities:
     - 기획 의도 및 기능 구현 논의
     - UI/UX 설계 검토
     - QA 단계에서의 우려사항 검토
@@ -53,11 +49,11 @@ experiences:
     overview: 기획서를 바탕으로 디자인 시안 제작 및 배포, UI 개발
   positions:
   - designation: UX디자인팀
-    진행업무:
+    responsibilities:
     - UX 를 고려하여 기획서를 바탕한 디자인 시안 작성
 
   - designation: 웹인터랙션팀
-    진행업무:
+    responsibilities:
       - 디자인 배포 후 디자인을 바탕으로 UI 개발 진행
 
 - company:
@@ -67,23 +63,23 @@ experiences:
     overview: 기획서를 바탕으로 기능 구현/개발
   positions:
     - designation: BE플랫폼팀
-      진행업무:
+      responsibilities:
         - 백엔드 개발 진행
 
     - designation: FE플랫폼팀
-      진행업무:
+      responsibilities:
         - 프론트 개발 진행
 
     - designation: 플랫폼아키텍처팀
-      진행업무:
+      responsibilities:
         - 멤버십, 결제 / Pay, 알림 등과 관련된 개발 진행
 
     - designation: 방송서비스플랫폼팀
-      진행업무:
+      responsibilities:
       - 프릭샷, ANETA, 스트리머 등 방송과 관련된 개발 진행
 
     - designation: 광고검색플랫폼팀
-      진행업무:
+      responsibilities:
         - 검색, 광고서비스 관련 개발 진행
 
 - company:
@@ -93,11 +89,11 @@ experiences:
     overview: 기획서를 바탕으로 TestCase 작성 및 기능 테스트 진행
   positions:
     - designation: 웹서비스QA팀
-      진행업무:
+      responsibilities:
         - 서버, 프론트, 백엔드 등 모바일앱을 제외한 모든 영역에 대한 QA 진행 (PC, 모바일웹)
 
     - designation: QA팀
-      진행업무:
+      responsibilities:
         - 모바일앱 내 네이티브 영역에 대해서만 QA 진행
 
 - company:
