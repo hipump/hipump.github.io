@@ -1,7 +1,7 @@
 # section information
 section:
   name: Tools
-  id: Tools
+  id: Skills
   enable: true
   weight: 2
   showOnNavbar: true
