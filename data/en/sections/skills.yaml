@@ -38,7 +38,7 @@ skills:
 
 - name: Switchhosts
   logo: /images/sections/skills/switchhosts.png
-  summary: "PC의 HOSTS를 관리 및 전환을 위한 프로그램으로 오픈소스 소프트웨어
+  summary: "PC의 HOSTS를 관리 및 전환을 위한 프로그램으로 오픈소스 소프트웨어"
   url: "https://switchhosts.vercel.app/"
 
 - name: Microsoft Teams
