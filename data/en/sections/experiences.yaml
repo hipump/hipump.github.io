@@ -54,34 +54,34 @@ experiences:
 
   - designation: 웹인터랙션팀
     responsibilities:
-      - 디자인 배포 후 디자인을 바탕으로 UI 개발 진행
+    - 디자인 배포 후 디자인을 바탕으로 UI 개발 진행
 
-#- company:
-#    name: 서비스 개발
-#    location: 서비스개발실
-#    logo: /images/sections/experiences/Development.png
-#    overview: 기획서를 바탕으로 기능 구현/개발
-#  positions:
-#    - designation: BE플랫폼팀
-#      responsibilities:
-#        - 백엔드 개발 진행
-#
-#    - designation: FE플랫폼팀
-#      responsibilities:
-#        - 프론트 개발 진행
-#
-#    - designation: 플랫폼아키텍처팀
-#      responsibilities:
-#        - 멤버십, 결제 / Pay, 알림 등과 관련된 개발 진행
-#
-#    - designation: 방송서비스플랫폼팀
-#      responsibilities:
-#      - 프릭샷, ANETA, 스트리머 등 방송과 관련된 개발 진행
-#
-#    - designation: 광고검색플랫폼팀
-#      responsibilities:
-#        - 검색, 광고서비스 관련 개발 진행
-#
+- company:
+    name: 서비스 개발
+    location: 서비스개발실
+    logo: /images/sections/experiences/Development.png
+    overview: 기획서를 바탕으로 기능 구현/개발
+  positions:
+  - designation: BE플랫폼팀
+    responsibilities:
+    - 백엔드 개발 진행
+
+  - designation: FE플랫폼팀
+    responsibilities:
+    - 프론트 개발 진행
+
+  - designation: 플랫폼아키텍처팀
+    responsibilities:
+    - 멤버십, 결제 / Pay, 알림 등과 관련된 개발 진행
+
+  - designation: 방송서비스플랫폼팀
+    responsibilities:
+    - 프릭샷, ANETA, 스트리머 등 방송과 관련된 개발 진행
+
+  - designation: 광고검색플랫폼팀
+    responsibilities:
+    - 검색, 광고서비스 관련 개발 진행
+
 #- company:
 #    name: QA
 #    location: 웹서비스QA팀, QA팀
