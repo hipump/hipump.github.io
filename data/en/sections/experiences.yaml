@@ -101,3 +101,8 @@ experiences:
     location: 서비스개발실
     logo: /images/sections/experiences/Launch.png
     overview: QA 완료된 제품에 대한 서비스 배포 진행
+  positions:
+  - designation: 서비스개발실
+    responsibilities:
+    - 실서버 배포 진행
+
