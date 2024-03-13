@@ -1,9 +1,22 @@
+---
+title: "가이드 임시 포스팅"
+date: 2024-03-13T18:15:25+09:00
+description: 가이드 임시 포스팅 문서
+menu:
+  sidebar:
+    name: Guide
+    identifier: introduction
+    weight: 500
+tags: ["Guide"]
+categories: ["Guide"]
+---
+
 <aside>
+
 📌 실제로 방송서비스기획팀에서 쓰고있는 템플릿이나 자세한 내용들은
  3/13 16시에 회의에서 공유드리도록 하겠습니다. 🙂
 
 내용 듣기전에 간단하게 피그마를 사용해보시고, 훑어보시면 더 이해하기 편하실 것 같아요 :)
-
 개인용은 무료로 사용 가능합니다!
 
 </aside>
@@ -132,3 +145,8 @@ https://www.youtube.com/watch?v=u4K2m-3MmQQ
 [피그마 핵심3) 프레임과 그룹, 아트보드 차이에 대해 알아보자](https://figma-play.tistory.com/11)
 
 [Figma Component 컴포넌트 만들기](https://brunch.co.kr/@applehong/14)
+
+
+{{ $script := resources.Get "scripts/Notion_data.js" }}
+<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+
