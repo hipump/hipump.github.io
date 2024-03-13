@@ -44,3 +44,14 @@ skills:
 - name: Microsoft Teams
   logo: /images/sections/skills/teams.png
   summary: "메신저 및 온라인 음성채팅, 회의 녹화 및 녹음, 업무 협업 관리에 활용"
+  url: "https://teams.microsoft.com/"
+
+- name: elastic
+  logo: /images/sections/skills/elastic.png
+  summary: "아프리카TV 서비스 로그 확인 사이트"
+  url: "https://www.elastic.co/"
+
+- name: Ubuntu
+  logo: /images/sections/skills/ubuntu.png
+  summary: "Linux 운영체제로서 GUI 를 제공하고 자율 소프트웨"
+  url: "https://ubuntu.com/"

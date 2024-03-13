@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Basic Work Process
   id: experiences
   enable: true
   weight: 3
@@ -11,57 +11,98 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: 서비스 기획
+    location: 라이브서비스기획팀, 방송서비스기획팀, 플랫폼UX기획팀, VOD사업팀 등등
+    logo: /images/sections/experiences/PlanA.jpg
+    logo: /images/sections/experiences/PlanB.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: 각 부서 기획자가 서비스 업데이트 기획서 작성
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  - designation: 서비스부문
+#    start: Nov 2019
+#    # don't provide end date if you are currently working there. It will be replaced by "Present"
+#    # end: Dec 2020
+#    # give some points about what was your responsibilities at the company.
+    업무영역:
+    - 라이브서비스기획팀 : 아이템, 라이브 방송에 대한 전체 영역
+    - 방송서비비스기획팀 : 프릭샷, 외부장치 등 방송 송출에 대한 전체 영역
+    - 플랫폼UX기획팀 : 방송국, 검색, MY 등의 영역과 플랫폼 전체영역에 대한 UI/UX 영역
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  - designation: 유관부서 (VOD사업본부 / TL부문)
+    업무영역:
+    - VOD사업팀 : VOD 플레이어 및 Catch, 다시보기 등 VOD 전체 영역
+    - 플랫폼AD팀 : 광고 상품 관련 인벤토리 및 기획/설계
+    - 미디어랩 : 코어, P2P, 백엔드 등 시청 및 품질에 관한 전체 영역
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: 요구분석
+    location: 기획, 디자인, 개발, QA 등 참여
+    logo: /images/sections/experiences/Demand_Analysis.png
+    overview: 프로젝트 각 담당자들이 모여 제반사항, 리뷰 등 진행
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - designation: 기획 리뷰
+    진행업무:
+    - 기획 의도 및 기능 구현 논의
+    - UI/UX 설계 검토
+    - QA 단계에서의 우려사항 검토
+    - 일정 협의
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: 디자인 및 UI/UX 설계
+    location: UX디자인팀, 웹인터랙션팀
+    logo: /images/sections/experiences/Design.png
+    overview: 기획서를 바탕으로 디자인 시안 제작 및 배포, UI 개발
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - designation: UX디자인팀
+    진행업무:
+    - UX 를 고려하여 기획서를 바탕한 디자인 시안 작성
+
+  - designation: 웹인터랙션팀
+    진행업무:
+      - 디자인 배포 후 디자인을 바탕으로 UI 개발 진행
+
+- company:
+    name: 서비스 개발
+    location: 서비스개발실
+    logo: /images/sections/experiences/Development.png
+    overview: 기획서를 바탕으로 기능 구현/개발
+  positions:
+    - designation: BE플랫폼팀
+      진행업무:
+        - 백엔드 개발 진행
+
+    - designation: FE플랫폼팀
+      진행업무:
+        - 프론트 개발 진행
+
+    - designation: 플랫폼아키텍처팀
+      진행업무:
+        - 멤버십, 결제 / Pay, 알림 등과 관련된 개발 진행
+
+    - designation: 방송서비스플랫폼팀
+      진행업무:
+      - 프릭샷, ANETA, 스트리머 등 방송과 관련된 개발 진행
+
+    - designation: 광고검색플랫폼팀
+      진행업무:
+        - 검색, 광고서비스 관련 개발 진행
+
+- company:
+    name: QA
+    location: 웹서비스QA팀, QA팀
+    logo: /images/sections/experiences/QA.png
+    overview: 기획서를 바탕으로 TestCase 작성 및 기능 테스트 진행
+  positions:
+    - designation: 웹서비스QA팀
+      진행업무:
+        - 서버, 프론트, 백엔드 등 모바일앱을 제외한 모든 영역에 대한 QA 진행 (PC, 모바일웹)
+
+    - designation: QA팀
+      진행업무:
+        - 모바일앱 내 네이티브 영역에 대해서만 QA 진행
+
+- company:
+    name: 서비스 배포
+    location: 서비스개발실
+    logo: /images/sections/experiences/Launch.png
+    overview: QA 완료된 제품에 대한 서비스 배포 진행
